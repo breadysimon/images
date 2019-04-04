@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-spinnaker/redis-cluster:v2
+FROM gcr.io/jenkinsxio/nexus:0.1.7
